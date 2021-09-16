@@ -1,0 +1,9 @@
+REPORT Z_SAMPLE
+
+** Table declaration
+TABLES: VBAP,VBAK.
+
+** Type pools
+TYPE-POOLS: SLIS.
+
+** Type declaration
